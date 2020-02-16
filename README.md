@@ -37,9 +37,7 @@ Pour être sur Liste Principale
 
 
 Avec 10.5/20 à l'admissibilité il faut une note d'admission de : 17.20000000000000000000
-
 Avec 11.0/20 à l'admissibilité il faut une note d'admission de : 16.80000000000000000000
-
 Avec 11.5/20 à l'admissibilité il faut une note d'admission de : 16.40000000000000000000
 
 Avec 12.0/20 à l'admissibilité il faut une note d'admission de : 16.00000000000000000000
