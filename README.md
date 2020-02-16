@@ -29,27 +29,47 @@ Rappel des seuils d'admissibilité
 Seuil d'admission sur liste principale: 128
 Seuil d'admission sur la liste complémentaire: 
 Seuil d'admissibilité: 42; soit une note minimale à obtenir de 10.50000000000000000000
+
 Pour être sur Liste Principale
 
 Avec 10.5/20 à l'admissibilité il faut une note d'admission de : 17.20000000000000000000
+
 Avec 11.0/20 à l'admissibilité il faut une note d'admission de : 16.80000000000000000000
+
 Avec 11.5/20 à l'admissibilité il faut une note d'admission de : 16.40000000000000000000
+
 Avec 12.0/20 à l'admissibilité il faut une note d'admission de : 16.00000000000000000000
+
 Avec 12.5/20 à l'admissibilité il faut une note d'admission de : 15.60000000000000000000
+
 Avec 13.0/20 à l'admissibilité il faut une note d'admission de : 15.20000000000000000000
+
 Avec 13.5/20 à l'admissibilité il faut une note d'admission de : 14.80000000000000000000
+
 Avec 14.0/20 à l'admissibilité il faut une note d'admission de : 14.40000000000000000000
+
 Avec 14.5/20 à l'admissibilité il faut une note d'admission de : 14.00000000000000000000
+
 Avec 15.0/20 à l'admissibilité il faut une note d'admission de : 13.60000000000000000000
+
 Avec 15.5/20 à l'admissibilité il faut une note d'admission de : 13.20000000000000000000
+
 Avec 16.0/20 à l'admissibilité il faut une note d'admission de : 12.80000000000000000000
+
 Avec 16.5/20 à l'admissibilité il faut une note d'admission de : 12.40000000000000000000
+
 Avec 17.0/20 à l'admissibilité il faut une note d'admission de : 12.00000000000000000000
+
 Avec 17.5/20 à l'admissibilité il faut une note d'admission de : 11.60000000000000000000
+
 Avec 18.0/20 à l'admissibilité il faut une note d'admission de : 11.20000000000000000000
+
 Avec 18.5/20 à l'admissibilité il faut une note d'admission de : 10.80000000000000000000
+
 Avec 19.0/20 à l'admissibilité il faut une note d'admission de : 10.40000000000000000000
+
 Avec 19.5/20 à l'admissibilité il faut une note d'admission de : 10.00000000000000000000
+
 Avec 20.0/20 à l'admissibilité il faut une note d'admission de : 9.60000000000000000000
 
 
