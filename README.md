@@ -27,10 +27,14 @@ en fonction de la note obtenue à l'étude de dossier (Admissibilité)
 
 Rappel des seuils d'admissibilité
 Seuil d'admission sur liste principale: 128
+
 Seuil d'admission sur la liste complémentaire: 
+
 Seuil d'admissibilité: 42; soit une note minimale à obtenir de 10.50000000000000000000
 
+
 Pour être sur Liste Principale
+
 
 Avec 10.5/20 à l'admissibilité il faut une note d'admission de : 17.20000000000000000000
 
