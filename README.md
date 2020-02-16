@@ -12,8 +12,7 @@ Au début du script on peut modifier les variables suivantes:
 - Cofficient_entretien.
 - LP. (Pour liste principale)
 - LC. (Pour liste complémentaire)
-
-SA. (Note générale minimale du seuil d'admissibilité)
+- SA. (Note générale minimale du seuil d'admissibilité)
 
 ---
 
