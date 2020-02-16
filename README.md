@@ -15,9 +15,10 @@ Au début du script on peut modifier les variables suivantes:
 - SA. (Note générale minimale du seuil d'admissibilité)
 
 ---
+Exemple pour l'année 2017, pour l'un des affectataires : 
 
 bash Concours_ITRF_BAP_E_calculs_note_admission_pour_LP.sh
-Exemple pour l'année 2017, pour l'un des affectataires : 
+
 
 Concours ITRF - IGE BAP E - Administrateur des systèmes d'information
  
